@@ -28,6 +28,7 @@ pipeline {
       steps {
         input(message: 'Do you want to Deploy your Application ?', id: 'OK')
         echo 'Deploying Application'
+        echo 'Successfully Deployed'
       }
     }
 
