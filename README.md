@@ -1,2 +1,2 @@
 # Git Pipeline
-Hello Everyone. Its Git-Repo-Pipeline
+Git-Repo-Pipeline
